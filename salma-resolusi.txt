@@ -1,3 +1,7 @@
-Belajar dasar html dan css
-Belajar Git dan Github
-KONSISTEN yang penting
+BELAJAR GIT 
+
+1. BRANCHING
+-membuat git branch
+-membuat snapshot tanpa menganggu jalur utama (Master Branch)
+-Fitur Eksperimental 
+-2 orang mengerjakan repo yang sama 
