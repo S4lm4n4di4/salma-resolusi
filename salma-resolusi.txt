@@ -5,3 +5,6 @@ BELAJAR GIT
 -membuat snapshot tanpa menganggu jalur utama (Master Branch)
 -Fitur Eksperimental 
 -2 orang mengerjakan repo yang sama 
+
+3. MERGE
+- menggabungkan branch dengan master branch
